@@ -3,3 +3,4 @@ NewsApp is a versatile mobile application built with Flutter, offering users the
 
 ![image](https://github.com/Didar1313/A-Flutter-Application-for-News-Updates/assets/73778140/5d81cce3-2af1-43df-8559-f179de420e83)
 ![image](https://github.com/Didar1313/A-Flutter-Application-for-News-Updates/assets/73778140/315e0198-5093-44d9-b063-88a2fffc3f09)
+![image](https://github.com/Didar1313/A-Flutter-Application-for-News-Updates/assets/73778140/d76cc705-d19d-40b2-b49a-792b98ef226f)
